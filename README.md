@@ -21,7 +21,7 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat kesulitan mata kuliah dala
 ## Group 04 :busts_in_silhouette:
 - Ketua Kelompok: Johannes Bastian Jasa Sipayung
 - Anggota Kelompok :
-  - 1. Aldo Darel
-  - 2. Yessi
-  - 3. Andien
-  - 4. Yenita
+  - ![Bullet](https://media.giphy.com/media/fxRWXNcTnI7QS/giphy.gif) 1. Aldo Darel
+  - ![Bullet](https://media.giphy.com/media/fxRWXNcTnI7QS/giphy.gif) 2. Yessi
+  - ![Bullet](https://media.giphy.com/media/fxRWXNcTnI7QS/giphy.gif) 3. Andien
+  - ![Bullet](https://media.giphy.com/media/fxRWXNcTnI7QS/giphy.gif) 4. Yenita
