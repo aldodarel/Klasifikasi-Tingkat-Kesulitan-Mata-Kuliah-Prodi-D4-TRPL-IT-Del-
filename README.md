@@ -16,3 +16,4 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat kesulitan mata kuliah dala
 - Source Literature Review: https://drive.google.com/drive/folders/1kHgcar-5ymuF8mXmcT2Y4gs5WnTG2rjd
 
 ## Discussion :speech_balloon:
+- Link Discusstion Project: https://docs.google.com/spreadsheets/d/1pKz4yZNFq1SnM0iMwNZslxCbiopLYhUaiAVU6_ILoo0/edit?gid=0#gid=0
