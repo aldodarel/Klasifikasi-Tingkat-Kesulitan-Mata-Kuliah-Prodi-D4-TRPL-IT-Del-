@@ -17,3 +17,11 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat kesulitan mata kuliah dala
 
 ## Discussion :speech_balloon:
 - Link Discusstion Project: https://docs.google.com/spreadsheets/d/1pKz4yZNFq1SnM0iMwNZslxCbiopLYhUaiAVU6_ILoo0/edit?gid=0#gid=0
+
+## Group 04 :busts_in_silhouette:
+- Ketua Kelompok: Johannes Bastian Jasa Sipayung
+- Anggota Kelompok :
+  - 1. Aldo Darel
+  - 2. Yessi
+  - 3. Andien
+  - 4. Yenita
