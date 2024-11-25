@@ -25,3 +25,8 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat kesulitan mata kuliah dala
   - 2. Yessi
   - 3. Andien
   - 4. Yenita
+
+## Google Collab
+- Algoritma Random Forest: https://colab.research.google.com/drive/1a5fRZQOdg4i6_j7SmwTDKAZjQ44uRINK?usp=sharing
+- Algoritma Decision Tree: https://colab.research.google.com/drive/1fVKdc8AEq6aXA9TuyBdGvHe77p_unc55?usp=sharing#scrollTo=A8UdVTyRVmkY
+- Algoritma KNN: https://colab.research.google.com/drive/1jgEZzrAr_ew3LqlPD3DD28Br39N5F_Ra?usp=sharing
