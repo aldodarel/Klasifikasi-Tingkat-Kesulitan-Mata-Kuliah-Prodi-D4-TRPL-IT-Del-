@@ -28,6 +28,7 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat kesulitan mata kuliah dala
 
 ## Google Collab
 - Algoritma Random Forest: https://colab.research.google.com/drive/1a5fRZQOdg4i6_j7SmwTDKAZjQ44uRINK?usp=sharing
+  
   <img src="https://github.com/user-attachments/assets/a62b8f5d-aa96-44fa-a042-edde51c415d0" width="300">
 
 - Algoritma Decision Tree: https://colab.research.google.com/drive/1fVKdc8AEq6aXA9TuyBdGvHe77p_unc55?usp=sharing#scrollTo=A8UdVTyRVmkY
