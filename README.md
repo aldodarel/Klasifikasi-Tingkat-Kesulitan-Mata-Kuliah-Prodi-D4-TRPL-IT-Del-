@@ -9,7 +9,7 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat kesulitan mata kuliah dala
 - Code Editor (VS Code)
 
 ## Dataset :clipboard:
-- Sumber Data: ....
+- Sumber Data: Fakultas Vokasi
 - Format Data: .xlsx (excel)
 
 ## Literature Review :notebook:
