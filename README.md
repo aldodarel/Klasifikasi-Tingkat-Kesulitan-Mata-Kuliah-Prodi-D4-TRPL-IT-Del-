@@ -10,7 +10,7 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat kesulitan mata kuliah dala
 
 ## Dataset :clipboard:
 - Sumber Data: ....
-- Format Data: ....
+- Format Data: .xlsx (excel)
 
 ## Literature Review :notebook:
 - Source Literature Review: https://drive.google.com/drive/folders/1kHgcar-5ymuF8mXmcT2Y4gs5WnTG2rjd
