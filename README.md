@@ -29,13 +29,13 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat kesulitan mata kuliah dala
 ## Google Collab
 - Algoritma Random Forest: https://colab.research.google.com/drive/1LoEYfrssqUoFQVzgXmSxyw32KF4NXmG_?usp=sharing#scrollTo=ORV6BWZfyYOG
   
-  <img src="https://github.com/user-attachments/assets/a62b8f5d-aa96-44fa-a042-edde51c415d0" width="300">
+  ![Alt Text](https://github.com/aldodarel/Klasifikasi-Tingkat-Kesulitan-Mata-Kuliah-Prodi-D4-TRPL-IT-Del-/blob/main/rf.png?raw=true "Random Forest Confusion Matrix")
 
 - Algoritma Decision Tree: https://colab.research.google.com/drive/1nnmczxF1fCw3gUgUkZilN0tY0Eeokdq7?usp=sharing#scrollTo=L8LKnWTgjoYB
 
-  <img src="https://github.com/user-attachments/assets/c20f4691-f616-4f06-a273-b7a26fd8fff5" width="300">
+  ![Alt Text](https://github.com/aldodarel/Klasifikasi-Tingkat-Kesulitan-Mata-Kuliah-Prodi-D4-TRPL-IT-Del-/blob/main/Screenshot%202024-12-25%20213709.png?raw=true "Decision Tree Confusion Matrix")
 
 - Algoritma KNN: https://colab.research.google.com/drive/10r-_4N_AVR4pv9xeSnqBSKlA9AewUomw?usp=sharing#scrollTo=DEWkA97lOWqr
   
-  <img src="https://github.com/user-attachments/assets/30f46bf3-127f-43d4-9bdb-fa86c8fe1068" width="300">
+  ![Alt Text](https://github.com/aldodarel/Klasifikasi-Tingkat-Kesulitan-Mata-Kuliah-Prodi-D4-TRPL-IT-Del-/blob/main/knn.png?raw=true "KNN Confusion Matrix")
 
